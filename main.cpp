@@ -67,6 +67,9 @@ int main() {
     double x, y;
     char op;
     
+
+    cout << "Hello World!!!" << endl;
+
     cout << "SmartCalc v1.0" << endl;
     cout << "Type 'help' for help, 'exit' to quit\n" << endl;
     
